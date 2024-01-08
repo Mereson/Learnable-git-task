@@ -28,12 +28,13 @@
     It modifies the commit history to appear as though the changes were applied on top of the most recent 
     version of the code, as opposed to combining branches together.
 * #### The command for git rebase:
-    git rebase <base>
+    * git rebase < base >
 
 * ### What is git cherry-pick?
     * **git cherry-pick** is a way of picking a commit from a branch and applying it either to the main
     branch or another branch. It is a technique that enables a developer to pick an arbitiary commit by
     reference and apply it to the working branch.
 * #### The command for git cherry-pick:
-    git cherry-pick branchName
+    * git cherry-pick branchName
 
+    
